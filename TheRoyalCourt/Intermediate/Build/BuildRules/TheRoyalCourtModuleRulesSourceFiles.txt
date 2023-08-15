@@ -1,0 +1,3 @@
+G:\________Study_________\diplomProjectTheRoyalCourt\Main\TheRoyalCourt\Source\TheRoyalCourt\TheRoyalCourt.Build.cs
+G:\________Study_________\diplomProjectTheRoyalCourt\Main\TheRoyalCourt\Source\TheRoyalCourt.Target.cs
+G:\________Study_________\diplomProjectTheRoyalCourt\Main\TheRoyalCourt\Source\TheRoyalCourtEditor.Target.cs
